@@ -42,6 +42,7 @@ The introduction of a multi-vendor shopping feature in the Void Metaverse revolu
 ## <b>Special Features:-</b>
 ### AI-Enhanced Experiences:
 Intelligent AI integration enhances user interactions, providing personalized experiences and support throughout their journey in the Void Metaverse including OpenAI's GPT and Google's Gemini.
+
 ![Screenshot_2024-02-04-11-31-08-96_9c1a202afe3ab386bb4c2488d98bad07](https://github.com/Hackdata2024/1-mvp/assets/95400068/7be6b769-164e-41de-84d9-73e209a14d39)
 
 
@@ -57,6 +58,7 @@ The Void Metaverse creates unique advertising opportunities, allowing businesses
 Users can post images for other void users to interact with.
 Business Collaboration and Networking Hubs:
 Specialized spaces within the Void Metaverse foster business collaboration and networking, providing a unique platform for enterprises to connect and thrive in the digital landscape.
+
 ![Screenshot_2024-02-04-11-28-56-36_9c1a202afe3ab386bb4c2488d98bad07](https://github.com/Hackdata2024/1-mvp/assets/95400068/22ba4e5c-f54b-41a8-a016-b95f359e2e26)
 
 ![Screenshot_2024-02-04-11-29-08-67_9c1a202afe3ab386bb4c2488d98bad07](https://github.com/Hackdata2024/1-mvp/assets/95400068/83771b4b-d3c3-4cce-a58d-0fa1a72f7575)
@@ -84,7 +86,7 @@ HOW DO WE USE VOID?
 ```Step 1 - Download the apk file from here: https://drive.google.com/file/d/1K8Uds4DzoNOrBRuhgHxAVD8mLK6DaIV1/view?usp=drive_link```
 ```Step 2- Create a room```
 ## Demo:-
-[VIDEO]
+https://youtu.be/Un9vn-EKHkQ?si=SkarjNFtFlPppXqN
 
 
 
