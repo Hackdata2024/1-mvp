@@ -1,4 +1,4 @@
-![Screenshot_2024-02-04-11-31-08-96_9c1a202afe3ab386bb4c2488d98bad07](https://github.com/Hackdata2024/1-mvp/assets/95400068/e3e4b791-3d6c-4cfa-8ea1-39a661b2513c)# TEAM- MVP'S
+# TEAM- MVP'S
 ### Ashish  Mittal (Game Developement, UI/UX Development) 
 ### Divyam Gupta  (Game Development, Multiplayer backend development)
 ### Lavkush       (Backend Development)
